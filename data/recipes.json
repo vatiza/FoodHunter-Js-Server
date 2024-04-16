@@ -1,0 +1,198 @@
+[
+  {
+    "id": 12345678,
+    "name": "Spaghetti Carbonara",
+    "photo": "spaghetti_carbonara.jpg",
+    "country": "Italy",
+    "category": "Pasta",
+    "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+    "ingredients": [
+      "8 ounces spaghetti",
+      "2 large eggs",
+      "1 cup grated Pecorino Romano cheese",
+      "4 ounces pancetta, diced",
+      "2 cloves garlic, minced",
+      "Salt and freshly ground black pepper, to taste",
+      "2 tablespoons chopped fresh parsley"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions. Drain, reserving 1/2 cup of pasta water.",
+      "In a bowl, whisk together eggs, Pecorino Romano cheese, salt, and black pepper.",
+      "In a skillet, cook pancetta over medium heat until crispy. Add minced garlic and cook for 1 minute.",
+      "Add cooked spaghetti to the skillet with pancetta and garlic. Toss to combine.",
+      "Remove skillet from heat and quickly pour in egg mixture, tossing continuously to coat the pasta. If the sauce is too thick, add reserved pasta water.",
+      "Serve immediately, garnished with chopped parsley and additional cheese if desired."
+    ],
+    "cook_time": "20 minutes",
+    "rating": 4.8,
+    "chef_name": "Giuseppe Rossi",
+    "chef_profile_photo": "chef_giuseppe_rossi.jpg"
+  },
+  {
+    "id": 23456789,
+    "name": "Chicken Tikka Masala",
+    "photo": "chicken_tikka_masala.jpg",
+    "country": "India",
+    "category": "Curry",
+    "description": "A popular Indian dish featuring tender pieces of chicken cooked in a creamy tomato-based sauce.",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces",
+      "1 cup plain yogurt",
+      "2 tablespoons lemon juice",
+      "2 teaspoons ground cumin",
+      "2 teaspoons paprika",
+      "2 teaspoons garam masala",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon ground coriander",
+      "1/2 teaspoon cayenne pepper",
+      "Salt and freshly ground black pepper, to taste",
+      "3 tablespoons vegetable oil",
+      "1 onion, finely chopped",
+      "4 cloves garlic, minced",
+      "1 tablespoon grated ginger",
+      "1 can (14 oz) crushed tomatoes",
+      "1 cup heavy cream",
+      "2 tablespoons chopped fresh cilantro, for garnish"
+    ],
+    "instructions": [
+      "In a bowl, combine yogurt, lemon juice, cumin, paprika, garam masala, turmeric, coriander, cayenne pepper, salt, and black pepper. Add chicken pieces and toss to coat. Marinate in the refrigerator for at least 1 hour, preferably overnight.",
+      "In a large skillet, heat vegetable oil over medium heat. Add chopped onion and cook until softened.",
+      "Add minced garlic and grated ginger to the skillet. Cook for 1 minute, stirring constantly.",
+      "Add marinated chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+      "Stir in crushed tomatoes and simmer for 15-20 minutes, until the sauce thickens and the chicken is cooked through.",
+      "Stir in heavy cream and simmer for an additional 5 minutes.",
+      "Garnish with chopped cilantro and serve hot with rice or naan bread."
+    ],
+    "cook_time": "40 minutes",
+    "rating": 4.6,
+    "chef_name": "Priya Patel",
+    "chef_profile_photo": "chef_priya_patel.jpg"
+  },
+  {
+    "id": 34567890,
+    "name": "Sushi Rolls",
+    "photo": "sushi_rolls.jpg",
+    "country": "Japan",
+    "category": "Sushi",
+    "description": "Delicious sushi rolls filled with fresh fish, vegetables, and sticky sushi rice, served with soy sauce and wasabi.",
+    "ingredients": [
+      "2 cups sushi rice",
+      "4 nori seaweed sheets",
+      "Assorted fillings (e.g., salmon, tuna, cucumber, avocado)",
+      "Soy sauce, for serving",
+      "Wasabi, for serving",
+      "Pickled ginger, for serving"
+    ],
+    "instructions": [
+      "Cook sushi rice according to package instructions and let it cool slightly.",
+      "Place a nori seaweed sheet on a bamboo sushi mat.",
+      "Spread a thin layer of sushi rice over the nori sheet, leaving about 1 inch of space at the top.",
+      "Arrange your choice of fillings in the center of the rice.",
+      "Roll up the sushi tightly using the bamboo mat, pressing gently to seal the roll.",
+      "Slice the roll into bite-sized pieces using a sharp knife.",
+      "Serve with soy sauce, wasabi, and pickled ginger."
+    ],
+    "cook_time": "30 minutes",
+    "rating": 4.9,
+    "chef_name": "Yuki Tanaka",
+    "chef_profile_photo": "chef_yuki_tanaka.jpg"
+  },
+  {
+    "id": 45678901,
+    "name": "French Onion Soup",
+    "photo": "french_onion_soup.jpg",
+    "country": "France",
+    "category": "Soup",
+    "description": "A comforting soup made with caramelized onions, beef broth, toasted bread, and melted cheese.",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "2 tablespoons butter",
+      "2 tablespoons olive oil",
+      "4 cups beef broth",
+      "1/2 cup dry white wine",
+      "1 teaspoon dried thyme",
+      "Salt and freshly ground black pepper, to taste",
+      "4 slices French bread",
+      "1 cup grated Gruyère cheese"
+    ],
+    "instructions": [
+      "In a large pot, melt butter with olive oil over medium heat. Add sliced onions and cook, stirring occasionally, until caramelized and golden brown, about 30-40 minutes.",
+      "Add beef broth, white wine, dried thyme, salt, and pepper to the pot. Bring to a simmer and cook for an additional 15-20 minutes.",
+      "Preheat the oven broiler. Place French bread slices on a baking sheet and toast until lightly golden.",
+      "Ladle the soup into oven-safe bowls. Top each bowl with a toasted bread slice and sprinkle grated Gruyère cheese over the bread.",
+      "Place the bowls under the broiler until the cheese is melted and bubbly, about 2-3 minutes.",
+      "Serve hot, garnished with fresh thyme if desired."
+    ],
+    "cook_time": "60 minutes",
+    "rating": 4.7,
+    "chef_name": "Claire Dubois",
+    "chef_profile_photo": "chef_claire_dubois.jpg"
+  },
+  {
+    "id": 56789012,
+    "name": "Tacos al Pastor",
+    "photo": "tacos_al_pastor.jpg",
+    "country": "Mexico",
+    "category": "Mexican",
+    "description": "Flavorful tacos filled with marinated pork, pineapple, onions, and cilantro, served on warm corn tortillas.",
+    "ingredients": [
+      "1 lb pork shoulder, thinly sliced",
+      "3 cloves garlic, minced",
+      "1/4 cup pineapple juice",
+      "2 tablespoons achiote paste",
+      "2 tablespoons white vinegar",
+      "1 tablespoon dried oregano",
+      "1 teaspoon ground cumin",
+      "1 teaspoon smoked paprika",
+      "Salt and freshly ground black pepper, to taste",
+      "Corn tortillas, for serving",
+      "Diced pineapple, chopped onions, chopped cilantro, and lime wedges, for garnish"
+    ],
+    "instructions": [
+      "In a bowl, combine minced garlic, pineapple juice, achiote paste, white vinegar, dried oregano, ground cumin, smoked paprika, salt, and black pepper to make the marinade.",
+      "Add thinly sliced pork shoulder to the marinade and toss to coat. Cover and refrigerate for at least 2 hours, preferably overnight.",
+      "Preheat a grill or grill pan over medium-high heat. Grill the marinated pork slices until cooked through and slightly charred, about 3-4 minutes per side.",
+      "Warm corn tortillas on the grill for about 30 seconds on each side.",
+      "To assemble tacos, place grilled pork slices on warm tortillas. Top with diced pineapple, chopped onions, chopped cilantro, and a squeeze of lime juice.",
+      "Serve immediately."
+    ],
+    "cook_time": "30 minutes",
+    "rating": 4.8,
+    "chef_name": "Javier Ramirez",
+    "chef_profile_photo": "chef_javier_ramirez.jpg"
+  },
+  {
+    "id": 67890123,
+    "name": "Pad Thai",
+    "photo": "pad_thai.jpg",
+    "country": "Thailand",
+    "category": "Thai",
+    "description": "A popular Thai stir-fried noodle dish with shrimp, tofu, bean sprouts, and peanuts, flavored with tamarind sauce.",
+    "ingredients": [
+      "8 oz rice noodles",
+      "2 tablespoons vegetable oil",
+      "2 cloves garlic, minced",
+      "4 oz shrimp, peeled and deveined",
+      "4 oz extra-firm tofu, cubed",
+      "2 eggs, lightly beaten",
+      "2 cups bean sprouts",
+      "3 green onions, chopped",
+      "1/4 cup chopped peanuts",
+      "1/4 cup chopped fresh cilantro",
+      "Lime wedges, for serving"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water for 30 minutes, then drain.",
+      "In a wok or large skillet, heat vegetable oil over medium-high heat. Add minced garlic and cook until fragrant.",
+      "Add shrimp and tofu to the skillet and cook until shrimp is pink and tofu is lightly browned.",
+      "Push the shrimp and tofu to one side of the skillet and pour beaten eggs into the other side. Scramble the eggs until cooked through.",
+      "Add soaked rice noodles to the skillet along with bean sprouts and chopped green onions. Stir-fry until noodles are tender.",
+      "Pour tamarind sauce over the noodles and toss to combine.",
+      "Serve hot, garnished with chopped peanuts, fresh cilantro, and lime wedges."
+    ],
+    "cook_time": "30 minutes",
+    "rating": 4.7,
+    "chef_name": "Somchai Wong",
+    "chef_profile_photo": "chef_somchai_wong.jpg"
+  }
+]
