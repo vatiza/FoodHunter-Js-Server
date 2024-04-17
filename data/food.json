@@ -2,7 +2,7 @@
   {
     "id": 12345678,
     "name": "Spaghetti Carbonara",
-    "photo": "spaghetti_carbonara.jpg",
+    "photo": "https://i.postimg.cc/Jnn3sv3t/spaghetti-PNG80.png",
     "country": "Italy",
     "category": "Pasta",
     "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
@@ -26,11 +26,11 @@
     "cook_time": "20 minutes",
     "rating": 4.8,
     "chef_name": "Giuseppe Rossi",
-    "chef_profile_photo": "chef_giuseppe_rossi.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/NfV8PQh4/chef-PNG140.png"
   },
   {
     "id": 23456789,
-    "name": "Chicken Tikka Masala",
+    "name": "https://i.postimg.cc/7ZjnWwz4/OIP.jpg",
     "photo": "chicken_tikka_masala.jpg",
     "country": "India",
     "category": "Curry",
@@ -66,12 +66,12 @@
     "cook_time": "40 minutes",
     "rating": 4.6,
     "chef_name": "Priya Patel",
-    "chef_profile_photo": "chef_priya_patel.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/Prp4zCLy/chef-PNG73.png"
   },
   {
     "id": 34567890,
     "name": "Sushi Rolls",
-    "photo": "sushi_rolls.jpg",
+    "photo": "https://i.postimg.cc/tRtKFmxD/R.png",
     "country": "Japan",
     "category": "Sushi",
     "description": "Delicious sushi rolls filled with fresh fish, vegetables, and sticky sushi rice, served with soy sauce and wasabi.",
@@ -95,12 +95,12 @@
     "cook_time": "30 minutes",
     "rating": 4.9,
     "chef_name": "Yuki Tanaka",
-    "chef_profile_photo": "chef_yuki_tanaka.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/DZbG4Myc/chef.jpg"
   },
   {
     "id": 45678901,
     "name": "French Onion Soup",
-    "photo": "french_onion_soup.jpg",
+    "photo": "https://i.postimg.cc/c4D5mvB5/R.png",
     "country": "France",
     "category": "Soup",
     "description": "A comforting soup made with caramelized onions, beef broth, toasted bread, and melted cheese.",
@@ -126,12 +126,12 @@
     "cook_time": "60 minutes",
     "rating": 4.7,
     "chef_name": "Claire Dubois",
-    "chef_profile_photo": "chef_claire_dubois.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/DZbG4Myc/chef.jpg"
   },
   {
     "id": 56789012,
     "name": "Tacos al Pastor",
-    "photo": "tacos_al_pastor.jpg",
+    "photo": "https://i.postimg.cc/x1BkLPJj/R.png",
     "country": "Mexico",
     "category": "Mexican",
     "description": "Flavorful tacos filled with marinated pork, pineapple, onions, and cilantro, served on warm corn tortillas.",
@@ -159,12 +159,12 @@
     "cook_time": "30 minutes",
     "rating": 4.8,
     "chef_name": "Javier Ramirez",
-    "chef_profile_photo": "chef_javier_ramirez.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/50D1RPJj/d3c42c4d91c6d24b89bf8ab2175e9f75.jpg"
   },
   {
     "id": 67890123,
     "name": "Pad Thai",
-    "photo": "pad_thai.jpg",
+    "photo": "https://i.postimg.cc/YSHJhhNn/th.jpg",
     "country": "Thailand",
     "category": "Thai",
     "description": "A popular Thai stir-fried noodle dish with shrimp, tofu, bean sprouts, and peanuts, flavored with tamarind sauce.",
@@ -193,6 +193,6 @@
     "cook_time": "30 minutes",
     "rating": 4.7,
     "chef_name": "Somchai Wong",
-    "chef_profile_photo": "chef_somchai_wong.jpg"
+    "chef_profile_photo": "https://i.postimg.cc/Kc7P742S/OIP.jpg"
   }
 ]
