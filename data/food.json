@@ -1,9 +1,10 @@
 [
   {
-    "id": 12345678,
+    "id": "123f4o56o78d",
+    "category_id": "3",
     "name": "Spaghetti Carbonara",
     "photo": "https://i.postimg.cc/Jnn3sv3t/spaghetti-PNG80.png",
-    "country": "Italy",
+    "country_name": "Italy",
     "category": "Pasta",
     "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
     "ingredients": [
@@ -29,10 +30,11 @@
     "chef_profile_photo": "https://i.postimg.cc/NfV8PQh4/chef-PNG140.png"
   },
   {
-    "id": 23456789,
+    "id": "234f5o67o89d",
+  "category_id": "3",
     "name": "https://i.postimg.cc/7ZjnWwz4/OIP.jpg",
     "photo": "chicken_tikka_masala.jpg",
-    "country": "India",
+    "country_name": "India",
     "category": "Curry",
     "description": "A popular Indian dish featuring tender pieces of chicken cooked in a creamy tomato-based sauce.",
     "ingredients": [
@@ -69,10 +71,11 @@
     "chef_profile_photo": "https://i.postimg.cc/Prp4zCLy/chef-PNG73.png"
   },
   {
-    "id": 34567890,
+    "id": "345f6o78o90d",
+   "category_id": "1",
     "name": "Sushi Rolls",
     "photo": "https://i.postimg.cc/tRtKFmxD/R.png",
-    "country": "Japan",
+    "country_name": "Japan",
     "category": "Sushi",
     "description": "Delicious sushi rolls filled with fresh fish, vegetables, and sticky sushi rice, served with soy sauce and wasabi.",
     "ingredients": [
@@ -98,10 +101,11 @@
     "chef_profile_photo": "https://i.postimg.cc/DZbG4Myc/chef.jpg"
   },
   {
-    "id": 45678901,
+    "id": "456f7o89o01d",
+   "category_id": "2",
     "name": "French Onion Soup",
     "photo": "https://i.postimg.cc/c4D5mvB5/R.png",
-    "country": "France",
+    "country_name": "France",
     "category": "Soup",
     "description": "A comforting soup made with caramelized onions, beef broth, toasted bread, and melted cheese.",
     "ingredients": [
@@ -129,10 +133,11 @@
     "chef_profile_photo": "https://i.postimg.cc/DZbG4Myc/chef.jpg"
   },
   {
-    "id": 56789012,
+    "id": "567f8o90o12d",
+   "category_id": "1",
     "name": "Tacos al Pastor",
     "photo": "https://i.postimg.cc/x1BkLPJj/R.png",
-    "country": "Mexico",
+    "country_name": "Mexico",
     "category": "Mexican",
     "description": "Flavorful tacos filled with marinated pork, pineapple, onions, and cilantro, served on warm corn tortillas.",
     "ingredients": [
@@ -162,10 +167,11 @@
     "chef_profile_photo": "https://i.postimg.cc/50D1RPJj/d3c42c4d91c6d24b89bf8ab2175e9f75.jpg"
   },
   {
-    "id": 67890123,
+    "id": "678f9o01o23d",
+   "category_id": "2",
     "name": "Pad Thai",
     "photo": "https://i.postimg.cc/YSHJhhNn/th.jpg",
-    "country": "Thailand",
+    "country_name": "Thailand",
     "category": "Thai",
     "description": "A popular Thai stir-fried noodle dish with shrimp, tofu, bean sprouts, and peanuts, flavored with tamarind sauce.",
     "ingredients": [
