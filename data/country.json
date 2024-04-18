@@ -5,30 +5,27 @@
   },
   {
     "id": "1",
-    "name": "Bangladesh"
+    "name": "Bangladesh",
+    "img": "https://i.postimg.cc/pTkNkNCN/bangladesh-map.png"
   },
   {
     "id": "2",
-    "name": "India"
+    "name": "India",
+    "img": "https://i.postimg.cc/LXQCnmvs/Flag-of-India-svg.webp"
   },
   {
     "id": "3",
-    "name": "Italy"
+    "name": "Italy",
+    "img": "https://i.postimg.cc/pybBFrjP/download.png"
   },
   {
     "id": "4",
-    "name": "Japan"
+    "name": "Japan",
+    "img": "https://i.postimg.cc/MHksy92k/Flag-of-Japan.png"
   },
   {
     "id": "5",
-    "name": "France"
-  },
-  {
-    "id": "6",
-    "name": "US"
-  },
-  {
-    "id": "7",
-    "name": "Mexicorts"
+    "name": "France",
+    "img": "https://i.postimg.cc/kXqsq67y/download.png"
   }
 ]
